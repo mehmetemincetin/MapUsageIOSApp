@@ -21,5 +21,7 @@
 			</array>
 		</dict>
 	</dict>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Konum Görmek İçin İzine ihtiyaç Vardır.</string>
 </dict>
 </plist>
